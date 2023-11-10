@@ -1,0 +1,7 @@
+setup.py
+D:/code docs/Python/artificialpack/artificialpack/__init__.py
+D:/code docs/Python/artificialpack/artificialpack/setup.py
+artificialpack.egg-info/PKG-INFO
+artificialpack.egg-info/SOURCES.txt
+artificialpack.egg-info/dependency_links.txt
+artificialpack.egg-info/top_level.txt

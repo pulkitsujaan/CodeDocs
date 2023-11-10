@@ -1,0 +1,12 @@
+from tkinter import *
+root=Tk()
+# height=int(input("Enter the height of window:"))
+# width=int(input("Enter the width of window:"))
+root.geometry(f"400x500")
+# title=input("Enter the title of canvas:")
+root.title(f"GUI Unique waali")
+canvas=Canvas(root,width=400,height=500)
+canvas.pack()
+canvas.create_line(0,0,400,500)
+canvas.create_line(0,500,400,0)
+root.mainloop()

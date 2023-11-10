@@ -1,0 +1,17 @@
+to install virtual environment package-
+pip install virtualenv
+
+to create a virtualenviroment-
+virtualenv 'name of environment'
+
+to activate the environment
+.\name of environment\Scripts\activate
+
+to install a virtualenviroment with all system packages-
+virtualenv --system-site-packages 'nameofenviroment'
+
+
+to install requirements.txt as a whole
+pip install -r requirements.txt
+
+write 'deactivate' to deactivate the environment.

@@ -1,0 +1,1 @@
+namerange=int(input("Enter the number of names you want to enter:"))

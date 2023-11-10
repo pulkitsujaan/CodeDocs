@@ -1,0 +1,8 @@
+f= open("new2.txt","r")
+# print(f.read())
+print(f.tell())
+# f.write("i am very smart\nline 2\nline xyz")
+f.seek(9)
+print(f.read())
+# content=f.read()
+print(f.tell())
