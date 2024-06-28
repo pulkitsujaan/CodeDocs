@@ -18,7 +18,7 @@ int returnnumber()//no argument, with return value
     scanf("%d",&a);
     return a;
 }
-void helloworld()
+void helloworld()//no argument, no return value
 {
     printf("Hello World!");
 }
