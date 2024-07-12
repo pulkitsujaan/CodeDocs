@@ -1,3 +1,9 @@
+/*
+
+Array reversal
+
+*/
+
 #include <stdio.h>
 
 void arrrev(int arr[])
