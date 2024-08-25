@@ -1,0 +1,1 @@
+Thank You {{Name}} for purchasing {{Product}} from our {{City}} store. We look forward to further facilitate you.
